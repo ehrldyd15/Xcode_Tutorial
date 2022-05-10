@@ -2,4 +2,6 @@
 
 | 목록 | URL |
 | ------ | ------ |
-| Async await | https://github.com/ehrldyd15/Swift_Basic_Skills/wiki/Async---await |
+| Target | https://github.com/ehrldyd15/Xcode_Tutorial/wiki/Target |
+| Project | https://github.com/ehrldyd15/Xcode_Tutorial/wiki/Project |
+| Build Setting | https://github.com/ehrldyd15/Xcode_Tutorial/wiki/Build-Settings |

@@ -5,3 +5,4 @@
 | Target | https://github.com/ehrldyd15/Xcode_Tutorial/wiki/Target |
 | Project | https://github.com/ehrldyd15/Xcode_Tutorial/wiki/Project |
 | Build Setting | https://github.com/ehrldyd15/Xcode_Tutorial/wiki/Build-Settings |
+| 멀티 프로젝트 | https://github.com/ehrldyd15/Xcode_Tutorial/wiki/Build-Settings |

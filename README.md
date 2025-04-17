@@ -10,4 +10,4 @@
 | OBJC AppDelegate에서 Swift AppDelegate 사용하기 | https://github.com/ehrldyd15/Xcode_Tutorial/wiki/OBJC-AppDelegate%EC%97%90%EC%84%9C-Swift-AppDelegate-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0 |
 | xcframework 생성방법 | https://github.com/ehrldyd15/Xcode_Tutorial/wiki/xcframework-%EC%83%9D%EC%84%B1 |
 | Static과 Dynamic 라이브러리 | https://ledpear.tistory.com/60 |
-
+| Xcode16 신규프로젝트 생성시 pod init 안되는문제 | https://github.com/CocoaPods/CocoaPods/issues/12583 |
